@@ -11,7 +11,7 @@ lista_pytań = [
         "Odpowiedzi": ["myślnik", "przecinek", "średnik", "kropka "],
         "Poprawna_odpowiedź": "kropka "
     },
-{
+    {
         "Pytanie": "Ile kosztuje chleb, który pierwotnie kosztował 10 zł, następnie potaniał do 8 zł, a później jego cena wzrosła o 20 proc.?",
         "Odpowiedzi": ["8,20 zł", "9 zł", "9,60 zł", "10 zł"],
         "Poprawna_odpowiedź": "9,60 zł"
