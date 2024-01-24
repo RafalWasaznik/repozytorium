@@ -46,6 +46,7 @@ lista_pytań = [
         "Odpowiedzi": ["kuną a łasicą", "bobrem a wiewiórką", "rysiem a żbikiem", "wilkiem a szakalem"],
         "Poprawna_odpowiedź": "wilkiem a szakalem"
     },
+
 ]
 
 wyniki = []
